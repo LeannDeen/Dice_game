@@ -18,5 +18,5 @@ while test_condition == 2:
 
         str_comp_values = str(comp_values)
 
-        print("YAY you win dice gam3!! \n Here's what you rolled: ", str_comp_values + "\n This is your total score: ",
+        print("YAY you win dice gam3!! \n This is what you rolled: ", str_comp_values + "\n This is your total score: ",
               sum_comp_values)
